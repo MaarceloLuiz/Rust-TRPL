@@ -1,0 +1,1 @@
+C:\Users\marce\OneDrive\Área\ de\ Trabalho\Wrk\Rust\ TRPL\Chapter\ 6\ -\ Enums\defining_enum\target\debug\defining_enum.exe: C:\Users\marce\OneDrive\Área\ de\ Trabalho\Wrk\Rust\ TRPL\Chapter\ 6\ -\ Enums\defining_enum\src\main.rs
